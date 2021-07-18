@@ -24,6 +24,7 @@ yarn lint
 > 刚自学了一些vue3 所以就拿来练练手
 > 后续这个项目也会在闲暇之余更新维护
 > 前端纯小白,如果有什么写的不好的地方希望指正
+> 演示站点 tool.dushu.work
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
